@@ -2,7 +2,7 @@
 
 /*************** Header **************/
 
-$heading = "Iranian Food Recipes";
+$heading = 'Iranian Food Recipes';
 
 
 /*************** Nav *****************/
@@ -15,7 +15,7 @@ $heading = "Iranian Food Recipes";
 
 /*************** Footer **************/
 
-$footer = "Copyright &copy; 2014 Behzad Lashkari";
+$footer = 'Copyright &copy; 2014 Behzad Lashkari';
 
 
 ?>
