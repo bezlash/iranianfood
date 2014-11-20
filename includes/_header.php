@@ -14,12 +14,14 @@
 
 	<title>Iranian and persian food recipes</title>
 
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+
 
 </head>
 
 <body><!--closing tag in _footer.php-->
 
-<div id="wrapper"><!--closing tag in _footer.php-->
+<section id="wrapper"><!--closing tag in _footer.php-->
 
 <header>
 

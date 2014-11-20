@@ -3,7 +3,7 @@
 	
 </footer>
 
-</div><!--end wrapper opening tag in _header.php-->
+</section><!--end wrapper opening tag in _header.php-->
 
 </body><!--opening tag in _header.php-->
 
