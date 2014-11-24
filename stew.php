@@ -12,7 +12,7 @@
 
 		<section class="recipe_area">
 	
-			<h2>Latest Dishes</h2>
+			<h2>Stew</h2>
 
 				<article class="dish_type_item">
 					<h3>Ghormeh sabzi</h3>
@@ -47,7 +47,6 @@ They are cooked with beans (red kidney beans, rose cocoa beans, haricot beans, e
 I love nothing more than a Khoresht that is simple to make which tastes great yet has few ingredients and cooking steps. If you think the same way I do, then you will love this recipe for Khoreshteh Aloo, Prune Stew. I love prunes and for me they are definitely a wintery type of ingredient. This recipes is simple, yet very delicious and very comforting.
 					</p>
 				</article>
-
 
 
 
