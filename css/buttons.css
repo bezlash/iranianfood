@@ -1,5 +1,10 @@
-/*
-
-*/
+nav {
+  text-align: center; }
+  nav li {
+    display: inline-block;
+    margin: 0 auto; }
+  nav a {
+    color: pink;
+    text-decoration: none; }
 
 /*# sourceMappingURL=buttons.css.map */

@@ -1,0 +1,48 @@
+// Typography
+$sans-serif: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+$serif: Georgia, Cambria, "Times New Roman", Times, serif;
+$base-font-family: $sans-serif;
+$header-font-family: $base-font-family;
+
+// Font Sizes
+$base-font-size: 1em;
+$h1-font-size: $base-font-size * 2.25;
+$h2-font-size: $base-font-size * 2;
+$h3-font-size: $base-font-size * 1.75;
+$h4-font-size: $base-font-size * 1.5;
+$h5-font-size: $base-font-size * 1.25;
+$h6-font-size: $base-font-size;
+
+// Line height
+$base-line-height: 1.5;
+$header-line-height: 1.25;
+
+// Other sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$base-z-index: 0;
+
+// Colours
+$blue: #477DCA;
+$dark-grey: #333;
+$medium-grey: #999;
+$light-grey: #DDD;
+$light-red: #FBE3E4;
+$light-yellow: #FFF6BF;
+$light-green: #E6EFC2;
+
+// Background Colours
+$base-background-colour: #000;
+
+// Font Colours
+$base-font-colour: $dark-grey;
+
+// Link Colours
+$base-link-colour: $blue;
+$hover-link-colour: darken($blue, 15);
+$base-button-colour: $base-link-colour;
+$hover-button-colour: $hover-link-colour;
+
+// Border Colour
+$base-border-colour: $light-grey;
+$base-border: 1px solid $base-border-colour;
