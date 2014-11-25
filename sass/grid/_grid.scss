@@ -1,13 +1,24 @@
 /****************************Mobile*****************************/
 #wrapper {
 	@include outer-container;
+	text-align:center;
 	aside {
 		@include span-columns(12);
-		
+		li {
+			@include span-columns(6);
+		}		
 		
 	}
 
 	section {
+		@include span-columns(12);
+	}
+
+	.main_footer {
+		@include span-columns(12);
+	}
+
+	.contact_details {
 		@include span-columns(12);
 	}
 }
@@ -18,6 +29,9 @@
 
 #wrapper {
 	@include outer-container;
+	@include media(768px) {
+		text-align:left;
+	}
 	aside {
 		@include media(768px) {
 			@include span-columns(3);
@@ -27,6 +41,18 @@
 	section {
 		@include media(768px) {
 			@include span-columns(9);	
+		}
+	}
+
+	.main_footer {
+		@include media(768px) {
+			@include span-columns(6);	
+		}
+	}
+
+	.contact_details {
+		@include media(768px) {
+			@include span-columns(6);	
 		}
 	}
 }
